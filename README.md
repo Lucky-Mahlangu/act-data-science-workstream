@@ -32,7 +32,7 @@
 
 - Share the results of your data science work. Explain the model performance, any significant findings, and their implications.
 
-##Future Work
+## Future Work
 
 - Discuss potential future work or improvements that can be made to the project. Identify areas for further research, data collection, or model enhancements.
 
